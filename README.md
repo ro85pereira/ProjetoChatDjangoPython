@@ -1,1 +1,1 @@
-"# chat2" 
+Projeto para estudo de Django e Python
